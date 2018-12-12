@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Twitter Auth Demo</string>
+
+    <string name="CONSUMER_KEY">NeOGLV0BxP1mDwI3gxctoPNDk</string>
+    <string name="CONSUMER_SECRET">Y5ti5AOiNmEsX0xak2LpaLi2gxyNdxdcetT58dt8gf7oB8MkVU</string>
+    <string name="custom_log_in_with_twitter">Custom Log in with Twitter</string>
+    <string name="get_profile_image">Fetch Profile Image</string>
+</resources>
